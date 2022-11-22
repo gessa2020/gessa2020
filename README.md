@@ -1,5 +1,5 @@
 # My name is Gessa David.
-I am a data scientist who is currently doing an internship training with Hamoye.com.
+I am a freelance data scientist and a hamoye fellow 
 
 I am  interested in  research areas that revolve around areas of Deep learning,Computer vision and Natural Language Proccessing
 
