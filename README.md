@@ -8,4 +8,4 @@ As a lifelong learner, I actively seek opportunities to expand my data analytics
 
 Let's connect if you have a complex business challenge that needs an analytical approach!
 
-Visit [My Website](https://gessa2020.github.io/) to Learn More 
+Feel free to visit [My Website](https://gessa2020.github.io/) and look at various projects I have been working on.
