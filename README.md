@@ -1,5 +1,5 @@
-Gessa David
-Data Analyst │ Problem Solver │ Insights Seeker
+# Gessa David
+## Data Analyst │ Problem Solver │ Insights Seeker
 I am a dedicated data analyst and Hamoye Fellow passionate about translating complex data into actionable insights. I bring a results-oriented approach to each project, leveraging analytical skills and visual storytelling to solve problems and inform strategic decisions.
 
 Key Skills: Python, SQL, Excel, Data Visualization (Excel, Power BI, Python Notebooks), Statistical Analysis, Machine Learning
